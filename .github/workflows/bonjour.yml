@@ -10,4 +10,4 @@ jobs:
         with:
           node-version: 19
       - run: npm install
-      - run: npm run lint
+      - run: npm start
